@@ -25,7 +25,7 @@ Agenda:
 
 What happened: So now we met up in the Digital System Labs and after re-soldering some of the circuit parts it still did not work, so we decided to re-solder just the IC chips. After re-soldering it then the full bit adder was completed and everything worked perfectly. So we thought we accidentally burnt the chip because we weren't provided the IC chip socket, but the **WEIRD** thing was that when we used the 'burnt' chips on a breadboard it worked perfectly fine?? So we just concluded our meeting as well and split up the work for the poster and the video. Also, we would individually look into the FPGA.
 
-![photo_2019-09-24_20-48-13](D:\SUTD\Term 4\50.002_CompStruct\Logbook\photo_2019-09-24_20-48-13.jpg)
+![photo_2019-09-24_20-48-13](D:\SUTD\Term 4\50.002_CompStruct\Logbook\50.002_Logbook\img\photo_2019-09-24_20-48-13.jpg)
 
 ### (16th Oct) Lab Checkoff:
 
@@ -63,7 +63,7 @@ Agenda:
 
 We met at the tables outside CC13, and went through our ideas with Prof Nat. Generally I think it went well, Prof seems very pleased with the pre-research that we did, which was to source for materials as well as the idea. In the end we went with the idea of a 4x4 grid Minesweeper, and immediately after the consultation we gathered together to settle on the final purchases. By a stroke of luck, Yuxuan was actually planning to go back to China for recess week, so he is able to pick up the items much faster than waiting for the delivery.
 
-![1572334819243](C:\Users\Pei Yuan\AppData\Roaming\Typora\typora-user-images\1572334819243.png)
+![1572334819243](D:\SUTD\Term 4\50.002_CompStruct\Logbook\50.002_Logbook\img\1572334819243.png)
 
 ### (4th Nov) Checkoff 1:
 
