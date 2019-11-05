@@ -2,8 +2,6 @@
 
 Done by: Tiang Pei Yuan 1003323
 
-[toc]
-
 ## Phase 1 (Week 1-4)
 
 ### (22nd Sep) First Meeting:
