@@ -4,14 +4,6 @@ Done by: Tiang Pei Yuan 1003323
 
 [toc]
 
-<!-- TOC -->
-
-- [H1] (1D Project Logbook)
-- [H2] (Phase 1 (Week 1-4))
-- [H3] ((22nd Sep)) First Meeting:
-
-<!-- /TOC -->
-
 ## Phase 1 (Week 1-4)
 
 ### (22nd Sep) First Meeting:
