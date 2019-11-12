@@ -9,7 +9,8 @@ Done by: Tiang Pei Yuan 1003323
 - [ Phase 2: Start of Electronic Game Design ](#p2)
   - [ (18th Oct) Meeting: ](#18oct)
   - [ (21st Oct) Consultation session: ](#21oct)
-  - [ (4th Nov) Checkoff 1: ](#4nov)
+  - [ (4th Nov) Pre-Checkoff 1: ](#4nov)
+  - [ (7th Nov) Checkoff 1: ](#7nov)
   
 <!-- /TOC -->
 
@@ -75,10 +76,19 @@ We met at the tables outside CC13, and went through our ideas with Prof Nat. Gen
 
 ![1572334819243](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/1572334819243.png)
 <a name="4nov"></a>
-### (4th Nov) Checkoff 1:
+### (4th Nov) Pre-Checkoff 1:
 
 Agenda:
 
 - Finish checkoff 1 
 
 Due to a misunderstanding and miscommunication, we miraculously didn't do any work related to this checkoff at all during the recess week, as Yuxuan had went back to China and we mistakenly thought that the FPGA was with him, but it turns out that it was actually with Wang Wei. Thus, we met up on 4th Nov in the morning to gather at the Digital Systems Lab to do a sprint. The day started off quite badly as we aimed too high and wanted to use the seven-segment display to show the inputs and results of the ALU, so we had to write our own modules to convert to binary etc etc. Then, we realised that if we were to use the seven segment display we could only go up to 9999, which was a far cry from 16-bits, so we wasted half a day and we had to scrap that idea. In the end we went for the more typical, conventional way of displaying our results, which was to use the IO shield's LEDs. There were 3*8 = 24 LEDs, so 16 of them were used to display the 16 bits, and 3 were used to display 'z', 'v', and 'n'. We also used the dip switches to enter our 16 bits input, as well as the ALUFN signals for the OPCODE to indicate which operation we wanted. Thus, we ended up working till 3am in the morning but I am glad that we were able to finish it in time. Our physical checkoff is due on Thursday, 7th Nov and I hope nothing goes wrong.
+<a name="7nov"></a>
+### (7th Nov) Checkoff 1:
+
+Agenda: 
+- Actually get the checkoff
+
+In general, the checkoff went quite well other than a few hiccups, namely us misunderstanding the rubrics. We thought it was sufficient to show the values of Z, V, N, but what was really required was the 'automated testing' of Z, V, N, which had to include error cases on purpose. Now that it's over we'll be focusing on the Electronic Game Design, and currently I'm working on the draft which is a requirement for Checkoff 2, on the 13th Nov. Hopefully this time we don't miss things out.
+
+
