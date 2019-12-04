@@ -11,6 +11,7 @@ Done by: Tiang Pei Yuan 1003323
   - [ (21st Oct) Consultation session: ](#21oct)
   - [ (4th Nov) Checkoff 1: ](#4nov)
   - [ (1st Dec) Reflections:](#1dec)
+  - [ (4th Dec) Progress update:](#4dec)
   
 
 <!-- /TOC -->
@@ -91,7 +92,16 @@ Due to a misunderstanding and miscommunication, we miraculously didn't do any wo
 ### (1st Dec) Reflections:
 
 Apologies for the lack of updates. After the checkoff previously, we did not score very well because we did not expect the auto testing mode and the manual testing mode to be so different from what we envisioned. Thus, we were quite disheartened but we had to pick ourselves up quickly to tackle the problem ahead, which was the actual game. During the checkoff of the report of the game with Prof Oka, it was well received and Prof complimented us that it was quite detailed and well done. Then, we split the work as such: I was in charge of the electronics and report, Yuxuan was in charge of the Mojo and the graphics, Luying was in charge of the graphics design and the Mojo, Wang Wei was in charge of the hardware and report. Personally, I spent about a total of 20 work hours in the Digital System Lab soldering our whole circuit together, which consisted of 16 RGB LEDs, 16 buttons as well as 16*5 female pin headers which we originally thought we could use, but they turned out to be unreliable.  
+Before:
+![photo_2019-11-27_17-56-11.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-11-27_17-56-11.jpg)
 
+After:
+![photo_2019-12-01_01-12-28.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28.jpg)
+![photo_2019-12-01_01-12-28 (2).jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28%20(2).jpg)
+
+
+<a name="#4dec"></a>
 ### (4th Dec) Progress update:
 
 Wednesday of 1D week, 2 more days left to exhibition. Wang Wei was doing the hardware part and just last night Yuxuan submitted the poster as well as the Mojo code to EDimension, so currently I'm just working on the report because not everyone can work on the hardware together (which is actually pretty much settled already). 
+![photo_2019-12-03_19-20-17.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-03_19-20-17.jpg)
