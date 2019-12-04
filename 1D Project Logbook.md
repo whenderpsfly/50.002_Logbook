@@ -77,6 +77,7 @@ We met at the tables outside CC13, and went through our ideas with Prof Nat. Gen
 
 ![1572334819243](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/1572334819243.png)
 <a name="4nov"></a>
+
 ### (4th Nov) Checkoff 1:
 
 Agenda:
@@ -89,7 +90,7 @@ Due to a misunderstanding and miscommunication, we miraculously didn't do any wo
 
 ### (1st Dec) Reflections:
 
-Apologies for the lack of updates. After the checkoff previously, we did not score very well because we did not expect the auto testing mode and the manual testing mode to be so different from what we envisioned. Thus, we were quite disheartened but we had to pick ourselves up quickly to tackle the problem ahead, which was the actual game. During the checkoff of the report of the game with Prof Oka, it was well received and Prof complimented us that it was quite detailed and well done. Then, we split the work as such: I was in charge of the electronics and report, Yuxuan was in charge of the Mojo and the graphics, Luying was in charge of the graphics design and the Mojo, Wang Wei was in charge of the hardware and report. Personally, I spent about a total of 20 work hours in the Digital System Lab soldering our whole circuit together, which consisted of 16 RGB LEDs, 16 buttons as well as 16*5 female pin headers which we originally thought we could use, but they turned out to be unreliable. <insert photo>
+Apologies for the lack of updates. After the checkoff previously, we did not score very well because we did not expect the auto testing mode and the manual testing mode to be so different from what we envisioned. Thus, we were quite disheartened but we had to pick ourselves up quickly to tackle the problem ahead, which was the actual game. During the checkoff of the report of the game with Prof Oka, it was well received and Prof complimented us that it was quite detailed and well done. Then, we split the work as such: I was in charge of the electronics and report, Yuxuan was in charge of the Mojo and the graphics, Luying was in charge of the graphics design and the Mojo, Wang Wei was in charge of the hardware and report. Personally, I spent about a total of 20 work hours in the Digital System Lab soldering our whole circuit together, which consisted of 16 RGB LEDs, 16 buttons as well as 16*5 female pin headers which we originally thought we could use, but they turned out to be unreliable.  
 
 ### (4th Dec) Progress update:
 
