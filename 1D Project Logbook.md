@@ -12,7 +12,7 @@ Done by: Tiang Pei Yuan 1003323
   - [ (4th Nov) Checkoff 1: ](#4nov)
   - [ (1st Dec) Reflections:](#1dec)
   - [ (4th Dec) Progress update:](#4dec)
-  - [ (6th Dec) Exhibition:](6thDec)
+  - [ (6th Dec) Exhibition:](#6dec)
   
 
 <!-- /TOC -->
@@ -88,26 +88,28 @@ Agenda:
 
 Due to a misunderstanding and miscommunication, we miraculously didn't do any work related to this checkoff at all during the recess week, as Yuxuan had went back to China and we mistakenly thought that the FPGA was with him, but it turns out that it was actually with Wang Wei. Thus, we met up on 4th Nov in the morning to gather at the Digital Systems Lab to do a sprint. The day started off quite badly as we aimed too high and wanted to use the seven-segment display to show the inputs and results of the ALU, so we had to write our own modules to convert to binary etc etc. Then, we realised that if we were to use the seven segment display we could only go up to 9999, which was a far cry from 16-bits, so we wasted half a day and we had to scrap that idea. In the end we went for the more typical, conventional way of displaying our results, which was to use the IO shield's LEDs. There were 3*8 = 24 LEDs, so 16 of them were used to display the 16 bits, and 3 were used to display 'z', 'v', and 'n'. We also used the dip switches to enter our 16 bits input, as well as the ALUFN signals for the OPCODE to indicate which operation we wanted. Thus, we ended up working till 3am in the morning but I am glad that we were able to finish it in time. Our physical checkoff is due on Thursday, 7th Nov and I hope nothing goes wrong.
 
-<a name="#1dec"></a>
+<a name="1dec"></a>
 
 ### (1st Dec) Reflections:
 
 Apologies for the lack of updates. After the checkoff previously, we did not score very well because we did not expect the auto testing mode and the manual testing mode to be so different from what we envisioned. Thus, we were quite disheartened but we had to pick ourselves up quickly to tackle the problem ahead, which was the actual game. During the checkoff of the report of the game with Prof Oka, it was well received and Prof complimented us that it was quite detailed and well done. Then, we split the work as such: I was in charge of the electronics and report, Yuxuan was in charge of the Mojo and the graphics, Luying was in charge of the graphics design and the Mojo, Wang Wei was in charge of the hardware and report. Personally, I spent about a total of 20 work hours in the Digital System Lab soldering our whole circuit together, which consisted of 16 RGB LEDs, 16 buttons as well as 16*5 female pin headers which we originally thought we could use, but they turned out to be unreliable.  
 Before:
+
 ![photo_2019-11-27_17-56-11.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-11-27_17-56-11.jpg)
 
 After:
+
 ![photo_2019-12-01_01-12-28.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28.jpg)
 ![photo_2019-12-01_01-12-28 (2).jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28%20(2).jpg)
 
-<a name="#4dec"></a>
+<a name="4dec"></a>
 
 ### (4th Dec) Progress update:
 
 Wednesday of 1D week, 2 more days left to exhibition. Wang Wei was doing the hardware part and just last night Yuxuan submitted the poster as well as the Mojo code to EDimension, so currently I'm just working on the report because not everyone can work on the hardware together (which is actually pretty much settled already). 
 ![photo_2019-12-03_19-20-17.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-03_19-20-17.jpg)
 
-<a name="#6dec"></a>
+<a name="6dec"></a>
 
 ### (6th Dec) Exhibition:
 
