@@ -12,6 +12,7 @@ Done by: Tiang Pei Yuan 1003323
   - [ (4th Nov) Checkoff 1: ](#4nov)
   - [ (1st Dec) Reflections:](#1dec)
   - [ (4th Dec) Progress update:](#4dec)
+  - [ (6th Dec) Exhibition:](6thDec)
   
 
 <!-- /TOC -->
@@ -99,9 +100,18 @@ After:
 ![photo_2019-12-01_01-12-28.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28.jpg)
 ![photo_2019-12-01_01-12-28 (2).jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-01_01-12-28%20(2).jpg)
 
-
 <a name="#4dec"></a>
+
 ### (4th Dec) Progress update:
 
 Wednesday of 1D week, 2 more days left to exhibition. Wang Wei was doing the hardware part and just last night Yuxuan submitted the poster as well as the Mojo code to EDimension, so currently I'm just working on the report because not everyone can work on the hardware together (which is actually pretty much settled already). 
 ![photo_2019-12-03_19-20-17.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-03_19-20-17.jpg)
+
+<a name="#6dec"></a>
+
+### (6th Dec) Exhibition:
+
+So on the exhibition day itself, I was at the booth the whole time and after explaining the game over a hundred times to different visitors, I feel like I became an expert in Minesweeper. However, the sad thing was that one of the LEDs blew on the morning itself, and we had no time to re-solder it, so I immediately changed the game rules while explaining for that tile to be a 'mystery tile', to increase the difficulty level because that tile will not tell you how many bombs is surrounding it. In general I think our game was quite well received and well liked, and we had quite a lot of votes from strangers that genuinely thought our game was fun. Especially the multiplayer aspect about it, which was very different and fresh from the normal typical minesweeper games. Overall, the response from the public kind of makes the effort and hard work we put in over the past term worth it.
+
+![photo_2019-12-09_14-39-39.jpg](https://github.com/whenderpsfly/50.002_Logbook/blob/master/img/photo_2019-12-09_14-39-39.jpg)
+
